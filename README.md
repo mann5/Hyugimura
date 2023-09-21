@@ -40,6 +40,6 @@
 
 
 ## ```Thanks To```
-  <img src="https://github.com/mann5.png" /></>
+  <img src="https://github.com/mann5.png"="35"="35" />
 </p>
 - [`Hyugimura`]()
