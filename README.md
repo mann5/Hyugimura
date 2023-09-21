@@ -40,7 +40,6 @@
 
 
 ## ```Thanks To```
-<p align="center">
   <img src="https://github.com/mann5.png" /></>
 </p>
 - [`Hyugimura`]()
