@@ -38,7 +38,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://replit.com)
 
 # My Contact
-<a href="https://wa.me/62895329828237"><img src="https://images.app.goo.gl/NzzanTdbVbLxiTkr8.png" />
+<a href="https://wa.me/62895329828237"><img src="https://img.shields.io/badge/WhatsApp-25D366?" />
 
 ## ```Thanks To```
 - <h2> [`Hyugimura`]()</h2> <img src="https://github.com/mann5.png>
